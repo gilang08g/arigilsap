@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1572109223 source:f:\game\game1 (beta2)\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<sstream>
+
+1572323834 source:h:\game1 (beta2)\main.cpp
+	"header.h"
+	"Feature.h"
+
+1572321232 h:\game1 (beta2)\header.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<sstream>
+	<fstream>
+
+1572332802 h:\game1 (beta2)\feature.h
+	"header.h"
+
+1572175953 source:g:\documents\tugas\game1 (beta2)\main.cpp
+	"header.h"
+	"Feature.h"
+
+1572166939 g:\documents\tugas\game1 (beta2)\header.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<sstream>
+	<fstream>
+
+1572175703 g:\documents\tugas\game1 (beta2)\feature.h
+	"header.h"
+
+1572323834 source:f:\game1 (beta2)\main.cpp
+	"header.h"
+	"Feature.h"
+
+1572321232 f:\game1 (beta2)\header.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<sstream>
+	<fstream>
+
+1572332802 f:\game1 (beta2)\feature.h
+	"header.h"
+
